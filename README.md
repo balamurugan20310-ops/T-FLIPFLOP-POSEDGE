@@ -28,7 +28,12 @@ From the above characteristic table, we can directly write the next state equati
 
 **Procedure**
 
-/* write all the steps invloved */
+1.	Type the program in Quartus software.
+2.	Compile and run the program.
+3.	Generate the RTL schematic and save the logic diagram.
+4.	Create nodes for inputs and outputs to generate the timing diagram.
+5.	For different input combinations generate the timing diagram.
+
 
 **PROGRAM**
 
@@ -37,6 +42,16 @@ From the above characteristic table, we can directly write the next state equati
 
 **RTL LOGIC FOR FLIPFLOPS**
 
+
+<img width="1918" height="934" alt="image" src="https://github.com/user-attachments/assets/6c2b16cd-24b7-47e7-9426-73a031c32ff4" />
+
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
+
+<img width="1110" height="828" alt="image" src="https://github.com/user-attachments/assets/68e44681-3d9a-4ec5-8ffb-1d89f2a12d60" />
+
+
 **RESULTS**
+
+Thus, the truth table of logic gates in Quartus II using Verilog programming is studied and verified.
